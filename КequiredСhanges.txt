@@ -1,0 +1,5 @@
+1. Change requests from get to post as a new resource is being created, there is confidential information, complex processing is in progress.
+(поменять запросы с get на post тк создается новый ресурс, в ссылке может храниться конфиденциальная информация, а так же обрабатываются данные)
+
+2. use URL encoding to avoid problems with reading and transmitting special characters
+(использовать URL encoding что бы не было проблем с чтением и передачей специальных символов)
