@@ -150,7 +150,7 @@ curl -X 'GET' \
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/LiksLaur/ShortLinks_FastAPI.git
 ```
 
 Go to the project directory
